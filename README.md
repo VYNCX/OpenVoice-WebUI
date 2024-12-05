@@ -60,3 +60,8 @@ OpenVoice has been powering the instant voice cloning capability of [myshell.ai]
    ```bash
    pip install -e .
    ```
+
+4. Run WebUI:
+   ```bash
+   python openvoice_webui.py
+   ```
