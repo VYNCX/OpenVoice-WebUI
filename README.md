@@ -29,7 +29,7 @@ OpenVoice : https://github.com/myshell-ai/OpenVoice
 
 3. Install dependencies:
    ```bash
-   pip install -e .
+   pip install -r requirements.txt
    ```
   Download model [download](https://github.com/VYNCX/OpenVoice-WebUI/releases/download/Download/OPENVOICE_MODELS.zip) and extract in OPENVOICE_MODELS . 
   
