@@ -7,7 +7,7 @@
 
 </div>
 
-## Orginal Reposit
+## Original
 OpenVoice : https://github.com/myshell-ai/OpenVoice
 
 ## Installation and Setup
