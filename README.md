@@ -31,7 +31,7 @@ OpenVoice : https://github.com/myshell-ai/OpenVoice
    ```bash
    pip install -r requirements.txt
    ```
-  for GPU usage : pip install torch torchvision torchaudio
+  for GPU usage : ```bash pip install torch torchvision torchaudio ```
   
   Download model [download](https://github.com/VYNCX/OpenVoice-WebUI/releases/download/Download/OPENVOICE_MODELS.zip) and extract in OPENVOICE_MODELS . 
   
